@@ -1,0 +1,3 @@
+[submodule "resources/i18n"]
+	path = resources/i18n
+	url = https://github.com/carllosaguiar/i18n
